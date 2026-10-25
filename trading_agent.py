@@ -2375,6 +2375,12 @@ def main():
                 with s_sum:
                     st.markdown(f"### {dec_label}")
                     st.write(dec_reason)
+                    if final_score >= 80:
+                        st.success("🧠 Strategic Advisor: BUY puternic")
+                    elif final_score >= 60:
+                        st.info("🧠 Strategic Advisor: HOLD / acumulare")
+                    else:
+                        st.warning("🧠 Strategic Advisor: evită intrarea acum")
                     st.dataframe(pd.DataFrame([{"componentă": n, "scor (0–100)": round(v)} for n, v in parts]),
                                  use_container_width=True, hide_index=True)
                     if ai_pair is None:
