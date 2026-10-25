@@ -1,0 +1,63 @@
+ticker,data,pret,scor_tehnic,prob_ML,moment_intrare,zona_cumparare,ret_1l_%,RSI,sub_max52_%,stop_loss,target,motive,scor_final,semnal
+PANW,2026-10-23,380.55,100,0.3622363209724426,Zonă bună de intrare,360.90 – 389.25,1.6,52.3,-9.4,342.74,437.26,"peste SMA200, SMA50>SMA200, peste SMA50, momentum 3 luni+, momentum 1 lună+, RSI sănătos, volum ridicat, aproape de maxim 52s",96.0,Interesant
+CRWD,2026-10-23,257.57,100,0.3612144887447357,Acceptabil – intră în trepte,228.35 – 247.71,2.2,55.9,-7.6,231.77,296.28,"peste SMA200, SMA50>SMA200, peste SMA50, momentum 3 luni+, momentum 1 lună+, RSI sănătos, volum ridicat, aproape de maxim 52s",95.2,Interesant
+PLTR,2026-10-23,196.75,90,0.291721910238266,Acceptabil – intră în trepte,180.69 – 192.88,3.7,54.4,-5.9,180.49,221.14,"peste SMA200, SMA50>SMA200, peste SMA50, momentum 3 luni+, momentum 1 lună+, RSI sănătos, aproape de maxim 52s",83.7,Interesant
+NOW,2026-10-23,158.96,80,0.3332631289958954,Prea întins – așteaptă retragere,134.43 – 143.61,17.2,70.0,-16.0,146.72,177.33,"peste SMA200, SMA50>SMA200, peste SMA50, momentum 3 luni+, momentum 1 lună+, RSI sănătos",83.5,Interesant
+CRM,2026-10-23,248.57,90,0.2867452800273895,Acceptabil – intră în trepte,230.41 – 243.57,6.2,60.8,-6.0,231.01,274.91,"peste SMA200, SMA50>SMA200, peste SMA50, momentum 3 luni+, momentum 1 lună+, RSI sănătos, aproape de maxim 52s",82.9,Interesant
+LLY,2026-10-23,1273.46,90,0.2821351885795593,Acceptabil – intră în trepte,1167.49 – 1224.83,7.6,62.2,-2.5,1197.01,1388.13,"peste SMA200, SMA50>SMA200, peste SMA50, momentum 3 luni+, momentum 1 lună+, RSI sănătos, aproape de maxim 52s",80.5,Interesant
+ADBE,2026-10-23,263.82,80,0.2991514503955841,Zonă bună de intrare,251.23 – 264.89,12.0,59.8,-26.7,245.61,291.14,"peste SMA200, SMA50>SMA200, peste SMA50, momentum 3 luni+, momentum 1 lună+, RSI sănătos",80.3,Interesant
+TXN,2026-10-23,284.69,90,0.2814885675907135,Acceptabil – intră în trepte,267.82 – 281.58,2.4,55.1,-13.9,266.34,312.21,"peste SMA200, SMA50>SMA200, peste SMA50, momentum 3 luni+, momentum 1 lună+, RSI sănătos, volum ridicat",79.7,Interesant
+PM,2026-10-23,199.47,90,0.23995599150657654,Acceptabil – intră în trepte,188.76 – 196.80,5.6,54.7,-3.0,188.74,215.56,"peste SMA200, SMA50>SMA200, peste SMA50, momentum 3 luni+, momentum 1 lună+, RSI sănătos, aproape de maxim 52s",75.6,Interesant
+QCOM,2026-10-23,175.91,70,0.28274834156036377,Zonă bună de intrare,172.47 – 182.65,-12.9,48.0,-29.3,162.33,196.28,"peste SMA200, SMA50>SMA200, peste SMA50, momentum 3 luni+, RSI sănătos",71.3,Interesant
+MU,2026-10-23,877.55,45,0.413767009973526,Zonă bună de intrare,958.68 – 1030.43,-18.9,38.2,-27.7,781.88,1021.06,"peste SMA200, SMA50>SMA200, momentum 3 luni+",70.9,Interesant
+AMD,2026-10-23,516.79,45,0.40737780928611755,Zonă bună de intrare,528.60 – 569.64,-18.1,39.0,-20.4,462.07,598.87,"peste SMA200, SMA50>SMA200, momentum 3 luni+",70.1,Interesant
+UNH,2026-10-23,418.09,80,0.23790979385375977,Acceptabil – intră în trepte,381.90 – 399.02,11.0,66.1,-3.6,395.27,452.32,"peste SMA200, SMA50>SMA200, peste SMA50, momentum 1 lună+, RSI sănătos, aproape de maxim 52s",69.0,Neutru
+MRK,2026-10-23,145.27,70,0.2787364423274994,Zonă bună de intrare,144.12 – 150.59,-2.4,49.6,-6.6,136.65,158.2,"peste SMA200, SMA50>SMA200, momentum 3 luni+, RSI sănătos, aproape de maxim 52s",68.9,Neutru
+INTC,2026-10-23,86.96,35,0.47358438372612,Zonă bună de intrare,99.30 – 107.72,-29.3,32.8,-38.3,75.73,103.8,"peste SMA200, SMA50>SMA200",66.7,Neutru
+IBM,2026-10-23,253.56,50,0.2935410737991333,Evită – trend slab,229.28 – 240.56,12.4,71.2,-22.4,238.53,276.11,"peste SMA200, peste SMA50, momentum 3 luni+, momentum 1 lună+",64.5,Neutru
+TSLA,2026-10-23,372.22,45,0.3144257962703705,Evită – trend slab,357.48 – 376.35,0.0,51.5,-24.0,347.07,409.95,"peste SMA50, momentum 3 luni+, momentum 1 lună+, RSI sănătos",63.6,Neutru
+MSFT,2026-10-23,524.51,90,0.17458146810531616,Acceptabil – intră în trepte,502.72 – 519.63,1.6,52.6,-3.5,501.96,558.34,"peste SMA200, SMA50>SMA200, peste SMA50, momentum 3 luni+, momentum 1 lună+, RSI sănătos, aproape de maxim 52s",61.9,Neutru
+MO,2026-10-23,74.31,90,0.16978348791599274,Acceptabil – intră în trepte,68.32 – 70.57,8.0,62.1,-2.3,71.31,78.82,"peste SMA200, SMA50>SMA200, peste SMA50, momentum 3 luni+, momentum 1 lună+, RSI sănătos, aproape de maxim 52s",61.1,Neutru
+PG,2026-10-23,161.02,90,0.1678788810968399,Acceptabil – intră în trepte,145.87 – 150.51,10.8,65.9,-2.1,154.83,170.3,"peste SMA200, SMA50>SMA200, peste SMA50, momentum 3 luni+, momentum 1 lună+, RSI sănătos, aproape de maxim 52s",60.3,Neutru
+MMM,2026-10-23,173.46,80,0.17680372297763824,Acceptabil – intră în trepte,166.99 – 173.15,2.3,60.6,-5.2,165.24,185.79,"peste SMA200, SMA50>SMA200, peste SMA50, momentum 1 lună+, RSI sănătos, aproape de maxim 52s",58.5,Neutru
+PYPL,2026-10-23,57.02,70,0.1995907723903656,Zonă bună de intrare,55.19 – 57.05,3.6,59.3,-21.0,54.53,60.76,"peste SMA200, SMA50>SMA200, peste SMA50, momentum 1 lună+, RSI sănătos",58.4,Neutru
+AMAT,2026-10-23,377.24,15,0.5008642673492432,Evită – trend slab,458.45 – 488.22,-22.2,26.1,-47.8,337.55,436.77,SMA50>SMA200,57.5,Neutru
+AAPL,2026-10-23,347.73,90,0.16268236935138702,Acceptabil – intră în trepte,326.26 – 335.88,2.0,63.9,-0.1,334.91,366.96,"peste SMA200, SMA50>SMA200, peste SMA50, momentum 3 luni+, momentum 1 lună+, RSI sănătos, aproape de maxim 52s",57.1,Neutru
+T,2026-10-23,20.93,25,0.3354243040084839,Evită – trend slab,24.14 – 25.31,-16.6,31.7,-25.5,19.37,23.27,"SMA50>SMA200, volum ridicat",56.9,Neutru
+LMT,2026-10-23,604.18,60,0.22962380945682526,Evită – trend slab,531.21 – 555.43,16.3,78.1,-9.6,571.89,652.62,"peste SMA200, peste SMA50, momentum 3 luni+, momentum 1 lună+, supracumpărat, volum ridicat, aproape de maxim 52s",56.6,Neutru
+META,2026-10-23,642.62,45,0.2705754339694977,Zonă bună de intrare,650.54 – 689.66,-14.5,35.8,-17.4,590.46,720.86,"peste SMA200, SMA50>SMA200, momentum 3 luni+",55.6,Neutru
+KO,2026-10-23,92.71,90,0.15943801403045654,Acceptabil – intră în trepte,88.09 – 90.45,5.6,60.0,-2.8,89.57,97.43,"peste SMA200, SMA50>SMA200, peste SMA50, momentum 3 luni+, momentum 1 lună+, RSI sănătos, aproape de maxim 52s",55.5,Neutru
+CSCO,2026-10-23,106.5,45,0.2502003312110901,Zonă bună de intrare,108.50 – 112.82,0.2,42.1,-17.5,100.73,115.15,"peste SMA200, SMA50>SMA200, momentum 1 lună+",54.8,Neutru
+ABBV,2026-10-23,285.64,90,0.15005245804786682,Acceptabil – intră în trepte,261.51 – 271.21,8.7,66.1,-1.2,272.7,305.04,"peste SMA200, SMA50>SMA200, peste SMA50, momentum 3 luni+, momentum 1 lună+, RSI sănătos, aproape de maxim 52s",53.9,Neutru
+PFE,2026-10-23,30.03,90,0.14564566314220428,Acceptabil – intră în trepte,28.02 – 28.85,4.7,65.6,-1.3,28.91,31.71,"peste SMA200, SMA50>SMA200, peste SMA50, momentum 3 luni+, momentum 1 lună+, RSI sănătos, aproape de maxim 52s",52.3,Neutru
+NVDA,2026-10-23,210.96,45,0.23898456990718842,Zonă bună de intrare,219.36 – 228.45,-6.3,38.1,-11.8,198.84,229.14,"peste SMA200, SMA50>SMA200, momentum 3 luni+",52.3,Neutru
+XOM,2026-10-23,183.21,65,0.17696619033813477,Prea întins – așteaptă retragere,163.82 – 169.65,14.1,76.2,0.0,175.44,194.87,"peste SMA200, SMA50>SMA200, peste SMA50, momentum 3 luni+, momentum 1 lună+, supracumpărat, aproape de maxim 52s",51.9,Neutru
+VZ,2026-10-23,44.66,40,0.2413475066423416,Evită – trend slab,46.36 – 48.18,-3.7,47.0,-11.9,42.24,48.29,"SMA50>SMA200, RSI sănătos, volum ridicat",51.5,Neutru
+SBUX,2026-10-23,100.8,80,0.16148240864276886,Zonă bună de intrare,98.33 – 101.85,6.3,61.1,-7.1,96.11,107.84,"peste SMA200, SMA50>SMA200, peste SMA50, momentum 1 lună+, RSI sănătos, aproape de maxim 52s",51.3,Neutru
+AMZN,2026-10-23,248.0,45,0.23428094387054443,Zonă bună de intrare,252.32 – 262.31,-0.7,43.2,-12.7,234.67,267.99,"peste SMA200, SMA50>SMA200, momentum 3 luni+",49.9,Neutru
+DIS,2026-10-23,112.52,90,0.12161709368228912,Acceptabil – intră în trepte,105.89 – 108.91,6.0,66.5,-2.2,108.49,118.56,"peste SMA200, SMA50>SMA200, peste SMA50, momentum 3 luni+, momentum 1 lună+, RSI sănătos, aproape de maxim 52s",49.8,Neutru
+JNJ,2026-10-23,263.81,70,0.16616499423980713,Zonă bună de intrare,261.84 – 271.37,-2.7,53.1,-5.3,251.11,282.86,"peste SMA200, SMA50>SMA200, momentum 3 luni+, RSI sănătos, aproape de maxim 52s",48.7,Neutru
+CVX,2026-10-23,233.21,65,0.167210653424263,Prea întins – așteaptă retragere,207.92 – 215.09,14.1,76.9,0.0,223.65,247.55,"peste SMA200, SMA50>SMA200, peste SMA50, momentum 3 luni+, momentum 1 lună+, supracumpărat, aproape de maxim 52s",47.0,Neutru
+ORCL,2026-10-23,126.16,0,0.40138256549835205,Evită – trend slab,139.19 – 149.03,-7.6,39.4,-54.9,113.03,145.85,,46.8,Neutru
+WMT,2026-10-23,119.89,65,0.16419459879398346,Evită – trend slab,108.16 – 111.89,11.0,69.6,-10.4,114.92,127.34,"peste SMA200, peste SMA50, momentum 3 luni+, momentum 1 lună+, RSI sănătos",45.4,Neutru
+USB,2026-10-23,59.58,70,0.15769055485725403,Zonă bună de intrare,59.35 – 61.06,1.4,55.5,-8.1,57.29,63.02,"peste SMA200, SMA50>SMA200, momentum 1 lună+, RSI sănătos, aproape de maxim 52s",44.7,Slab
+V,2026-10-23,407.92,75,0.12852661311626434,Acceptabil – intră în trepte,373.68 – 383.83,11.0,70.0,-1.5,394.39,428.22,"peste SMA200, SMA50>SMA200, peste SMA50, momentum 3 luni+, momentum 1 lună+, aproape de maxim 52s",44.0,Slab
+CAT,2026-10-23,687.0,0,0.3262191116809845,Evită – trend slab,786.05 – 827.11,-16.4,26.7,-35.4,632.25,769.13,,42.7,Slab
+LOW,2026-10-23,198.68,35,0.20148055255413055,Evită – trend slab,194.07 – 201.48,5.6,57.4,-29.7,188.8,213.5,"peste SMA50, momentum 1 lună+, RSI sănătos",42.5,Slab
+NFLX,2026-10-23,65.85,0,0.31965371966362,Evită – trend slab,73.21 – 76.39,-7.4,37.1,-43.1,61.61,72.21,,41.9,Slab
+MA,2026-10-23,623.6,75,0.12161014974117279,Acceptabil – intră în trepte,575.91 – 591.12,10.0,70.2,-1.5,603.32,654.02,"peste SMA200, SMA50>SMA200, peste SMA50, momentum 3 luni+, momentum 1 lună+, aproape de maxim 52s",41.5,Slab
+COST,2026-10-23,1003.32,75,0.12121416628360748,Evită – trend slab,930.78 – 955.03,8.7,69.2,-8.2,971.0,1051.8,"peste SMA200, peste SMA50, momentum 3 luni+, momentum 1 lună+, RSI sănătos, aproape de maxim 52s",40.7,Slab
+PEP,2026-10-23,135.77,35,0.19487233459949493,Evită – trend slab,132.22 – 136.55,5.6,59.9,-17.9,130.0,144.43,"peste SMA50, momentum 1 lună+, RSI sănătos",39.3,Slab
+NEE,2026-10-23,82.1,35,0.18255086243152618,Evită – trend slab,79.70 – 82.02,7.9,62.9,-14.9,79.0,86.75,"peste SMA50, momentum 1 lună+, RSI sănătos",38.5,Slab
+HD,2026-10-23,319.83,35,0.17892932891845703,Evită – trend slab,305.58 – 316.77,9.1,62.6,-16.4,304.9,342.22,"peste SMA50, momentum 1 lună+, RSI sănătos",37.7,Slab
+AVGO,2026-10-23,321.68,0,0.2835308313369751,Evită – trend slab,350.80 – 367.68,-8.8,34.3,-33.0,299.17,355.45,,37.1,Slab
+MCD,2026-10-23,248.46,25,0.19548210501670837,Evită – trend slab,247.04 – 253.92,5.1,57.9,-25.7,239.29,262.21,"momentum 1 lună+, RSI sănătos",35.1,Slab
+SO,2026-10-23,92.89,65,0.11182353645563126,Evită – trend slab,86.92 – 89.30,12.1,67.6,-4.7,89.72,97.64,"peste SMA200, peste SMA50, momentum 1 lună+, RSI sănătos, aproape de maxim 52s",34.1,Slab
+DUK,2026-10-23,124.98,65,0.11140640079975128,Evită – trend slab,117.95 – 120.93,10.3,68.3,-4.7,121.0,130.95,"peste SMA200, peste SMA50, momentum 1 lună+, RSI sănătos, aproape de maxim 52s",33.3,Slab
+BAC,2026-10-23,50.56,15,0.2160869985818863,Evită – trend slab,57.02 – 58.85,-10.8,26.4,-21.6,48.12,54.22,SMA50>SMA200,33.3,Slab
+UBER,2026-10-23,66.7,10,0.23529860377311707,Evită – trend slab,71.36 – 74.16,-4.2,38.6,-33.1,62.97,72.3,volum ridicat,33.2,Slab
+WFC,2026-10-23,82.39,30,0.1758706420660019,Evită – trend slab,83.68 – 86.58,-0.7,47.7,-13.1,78.52,88.19,"SMA50>SMA200, RSI sănătos",32.7,Slab
+GOOGL,2026-10-23,320.21,15,0.2012745887041092,Evită – trend slab,338.58 – 351.48,-6.9,31.3,-20.4,303.01,346.01,SMA50>SMA200,31.7,Slab
+JPM,2026-10-23,331.58,45,0.11236998438835144,Zonă bună de intrare,340.99 – 350.49,-2.9,42.0,-8.7,318.91,350.58,"peste SMA200, SMA50>SMA200, aproape de maxim 52s",24.9,Slab
+UPS,2026-10-23,101.06,35,0.12324125319719315,Evită – trend slab,97.86 – 100.96,7.6,63.7,-12.8,96.93,107.26,"peste SMA50, momentum 1 lună+, RSI sănătos",23.1,Slab
+O,2026-10-23,56.89,25,0.14606492221355438,Evită – trend slab,57.35 – 58.80,2.9,55.4,-13.1,54.96,59.78,"momentum 1 lună+, RSI sănătos",20.6,Slab
